@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution](https://github.com/HarshalHK77/social-links-profile)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Live Site URL: [live site](https://harshalhk77.github.io/social-links-profile/)
 
 ### Built with
 
