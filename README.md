@@ -21,9 +21,6 @@ Users should be able to:
 
 - Desktop
 ![](./desktop-screenshot.PNG)
-  
--Mobile
-![](./mobile-screenshot.PNG)
 
 ### Links
 
