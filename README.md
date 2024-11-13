@@ -19,10 +19,11 @@ Users should be able to:
 
 ### Screenshot
 
-- Desktop 
-  -![](./desktop-screenshot.PNG)
+- Desktop
+![](./desktop-screenshot.PNG)
+  
 -Mobile
-  -![](./mobile-screenshot.PNG)
+![](./mobile-screenshot.PNG)
 
 ### Links
 
